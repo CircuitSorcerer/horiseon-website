@@ -23,7 +23,7 @@ body {
     padding: 20px;
     padding-right: 0;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
+    background-color: #295E7A;
     color: var(--white);
 }
 
@@ -120,7 +120,7 @@ p {
     clear: both;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
+    background-color: #175E82;
 }
 
 .benefit-box {
@@ -155,7 +155,7 @@ p {
     margin-bottom: 20px;
     padding: 50px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color: #265D78;
     color: var(--white);
 }
 
